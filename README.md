@@ -1,6 +1,6 @@
 # Cybersecurity Internship - Prodigy Infotech
 
-This repository contains work completed during my cybersecurity internship at Prodigy Infotech. The focus of this internship is on enhancing network security, implementing security protocols, and identifying vulnerabilities to protect digital assets.
+This repository contains work completed during my cybersecurity internship at Prodigy Infotech. The focus of this internship is on having the opportunity to gain hands-on experience and develop valuable skills that will prepare you for your future career. The program is designed to challenge you, support your growth, and provide you with a meaningful and rewarding experience.
 
 ## Objectives:
 - 1st Task: caesar cipher.
